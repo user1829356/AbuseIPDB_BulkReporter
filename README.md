@@ -109,7 +109,3 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software.
 
 ---
-
-## 👨‍💻 Author
-
-Created by [Your Name] – feel free to modify or improve the script to suit your needs!
