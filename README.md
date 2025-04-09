@@ -19,7 +19,7 @@ This is a simple Python script to help you format and prepare bulk abuse reports
 Install required packages:
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 Contents of `requirements.txt`:
